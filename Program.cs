@@ -23,7 +23,6 @@ namespace InterviewQ3
                         }
                         for (var k=1; k<=i; k++) 
                         {
-                            //'i' here is each line in the height
                             Console.Write("* ");
                         }
             
