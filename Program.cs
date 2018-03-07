@@ -19,7 +19,7 @@ namespace InterviewQ3
 
                         for (var j=space; j>=1; j--) 
                         {
-                            Console.Write("-");
+                            Console.Write(" ");
                         }
                         for (var k=1; k<=i; k++) 
                         {
